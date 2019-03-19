@@ -1,3 +1,3 @@
 # 8puzzle
-Trabalho 1 - Sistemas Inteligentes
-
+Trabalho para a disciplina de Sistemas Inteligentes
+Sistemas de Informação - UFSC
